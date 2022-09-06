@@ -1,7 +1,7 @@
 <div align="center"> 
 <h3>Hi, I'm Ana Luiza! 👋 </h3>
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/e74d3c1e91eab5282e181ccc1662d1a4.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a>
-<p>I’m currently working on Quality Assurance and learning Postman, Javascript and Python.</p>
+<p> I'm studing analysis and development of systems at UNIESP. And now, I’m currently learning more about Quality Assurance, Postman, Cypress, Javascript and Python. I also have the certification "Scrum Fundamentals Certified". </p>
 
 ##
 <a href="https://github.com/analuizanasc">
